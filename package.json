@@ -1,5 +1,5 @@
 {
-  "name": "geth-dev-assistant",
+  "name": "@chainsafe/geth-dev-assistant",
   "version": "0.1.5",
   "description": "Configuration utility for geth's `--dev` ephemeral POA network.",
   "bin": {
